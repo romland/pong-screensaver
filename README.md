@@ -5,7 +5,7 @@ As hours and minutes tick, the corresponding bat will miss the ball.
 It's written in C# and probably requires Visual Studio to compile. It looks like
 it was once upgraded to VS2010.
 
-Found on an old disk. I am guessing I wrote it in 2006 or so and it's put on Github as-was.
+Found on an old disk. I am guessing I wrote it in 2007 or so and it's put on Github as-was.
 
 MIT license.
 
